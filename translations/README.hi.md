@@ -38,6 +38,7 @@ OpenEBS स्वयं अपने मेजबान पर केवल ए�
 [🇺🇦](translations/README.ua.md)
 [🇨🇳](translations/README.zh.md)
 [🇫🇷](translations/README.fr.md)
+[🇮🇳](translations/README.hi.md)
 
 ## स्केलेबिलिटी
 
